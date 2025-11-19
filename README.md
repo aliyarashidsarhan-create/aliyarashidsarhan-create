@@ -20,6 +20,7 @@ I'm a fresh graduate passionate about technology and software development. I rec
 
  ## :books: What I'm Currently Learning
 - web development
+- full stack Developer
 
  ## :telescope: Projects
 Smart Irrigation seystem
